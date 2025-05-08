@@ -46,11 +46,13 @@ jobs:
         with:
           python-version: '3.12'
       - run: python build-scripts/sanitize_items.py
-      - name: Build with Jekyll
-        # Outputs to the './_site' directory by default
-        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
-        env:
-          JEKYLL_ENV: production
+      - name: Clean Jekyll cache
+  run: bundle exec jekyll clean
+
+- name: Build with Jekyll
+  run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+  env:
+    JEKYLL_ENV: production
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
