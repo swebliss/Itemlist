@@ -1,70 +1,66 @@
-# This workflow uses actions that are not certified by GitHub.
-# They are provided by a third-party and are governed by
-# separate terms of service, privacy policy, and support
-# documentation.
-
-# Sample workflow for building and deploying a Jekyll site to GitHub Pages
+# Name of the GitHub Actions workflow as it will appear in the Actions tab
 name: Deploy Jekyll site to Pages
 
+# Trigger the workflow when code is pushed to the main branch or manually from the Actions tab
 on:
-  # Runs on pushes targeting the default branch
   push:
-    branches: [main]
+    branches: [main] # Replace 'main' with your default branch if different
+  workflow_dispatch: # Enables manual trigger from GitHub UI
 
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
-
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+# Set permissions so the workflow can deploy to GitHub Pages
 permissions:
-  contents: read
-  pages: write
-  id-token: write
+  contents: read      # Read access to the repo
+  pages: write        # Write access to publish the site
+  id-token: write     # Required for deploying securely
 
-# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
-# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+# Only allow one deploy at a time, don't cancel any in-progress deployments
 concurrency:
   group: "pages"
   cancel-in-progress: false
 
 jobs:
-  # Build job
-  build:
-    runs-on: ubuntu-latest
+  build: # Job to build the site
+    runs-on: ubuntu-latest # Use the latest Ubuntu runner
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v4 # Pulls the code from your GitHub repo
+
       - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
+        uses: ruby/setup-ruby@v1 # Installs Ruby for Jekyll
         with:
-          ruby-version: '3.1' # Not needed with a .ruby-version file
-          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
-          cache-version: 0 # Increment this number if you need to re-download cached gems
+          ruby-version: '3.1' # Use Ruby 3.1
+          bundler-cache: true # Automatically runs `bundle install` and caches gems
+          cache-version: 0    # Use to force cache refresh if needed
+
       - name: Setup Pages
         id: pages
-        uses: actions/configure-pages@v5
-      - uses: actions/setup-python@v5
+        uses: actions/configure-pages@v5 # Configures the output path for Pages deploy
+
+      - uses: actions/setup-python@v5 # Optional: needed if you use a Python script
         with:
           python-version: '3.12'
-      - run: python build-scripts/sanitize_items.py
+
+      - name: Run sanitize script
+        run: python build-scripts/sanitize_items.py # Cleans up or processes your JSON data before build
+
       - name: Clean Jekyll cache
-  run: bundle exec jekyll clean
+        run: bundle exec jekyll clean # Deletes cached site data so the build is fresh
 
-- name: Build with Jekyll
-  run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
-  env:
-    JEKYLL_ENV: production
+      - name: Build with Jekyll
+        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}" # Builds the site into _site/
+        env:
+          JEKYLL_ENV: production # Sets the environment to production mode
+
       - name: Upload artifact
-        # Automatically uploads an artifact from the './_site' directory by default
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v3 # Prepares the _site folder for deployment
 
-  # Deployment job
-  deploy:
+  deploy: # Job to deploy the site to GitHub Pages
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.deployment.outputs.page_url }} # Displays the live URL after deploy
     runs-on: ubuntu-latest
-    needs: build
+    needs: build # Only run after the build job finishes
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v4 # Deploys the _site output to GitHub Pages
