@@ -9397,54 +9397,6 @@
       "price": -10
     },
     {
-      "abr": "woodyeave",
-      "category": "Furniture",
-      "defname": "AR_EaveWoody",
-      "price": -10
-    },
-    {
-      "abr": "stonyeave",
-      "category": "Furniture",
-      "defname": "AR_EaveStony",
-      "price": -10
-    },
-    {
-      "abr": "simpleeave",
-      "category": "Furniture",
-      "defname": "AR_Eave",
-      "price": -10
-    },
-    {
-      "abr": "woodyeave(half)",
-      "category": "Furniture",
-      "defname": "AR_EaveWoody_half",
-      "price": -10
-    },
-    {
-      "abr": "stonyeave(half)",
-      "category": "Furniture",
-      "defname": "AR_EaveStony_half",
-      "price": -10
-    },
-    {
-      "abr": "eave(half)",
-      "category": "Furniture",
-      "defname": "AR_Eave_half",
-      "price": -10
-    },
-    {
-      "abr": "rafter",
-      "category": "Furniture",
-      "defname": "AR_Rafter",
-      "price": -10
-    },
-    {
-      "abr": "cornereave(outer)",
-      "category": "Furniture",
-      "defname": "AR_EaveCorner",
-      "price": -10
-    },
-    {
       "abr": "smallfishingtrap",
       "category": "Production",
       "defname": "VME_SmallFishingTrap",
@@ -17255,7 +17207,271 @@
       "category": "Misc",
       "defname": "Zombrella",
       "price": -10
+    },
+    {
+      "abr": "2-tierdisplayshelf",
+      "category": "Storage",
+      "defname": "sbz_TwoTierDisplayShelf",
+      "price": 148
+    },
+    {
+      "abr": "anqingdesk",
+      "category": "Furniture",
+      "defname": "RRAnqingDesk",
+      "price": 204
+    },
+    {
+      "abr": "baoshanscreen",
+      "category": "Furniture",
+      "defname": "RRBaoshanScreen",
+      "price": 236
+    },
+    {
+      "abr": "changzhisinglebed",
+      "category": "Furniture",
+      "defname": "RRChangzhiSingleBed",
+      "price": 208
+    },
+    {
+      "abr": "crate",
+      "category": "Storage",
+      "defname": "sbz_MidCrate",
+      "price": 212
+    },
+    {
+      "abr": "dalianwardrobe",
+      "category": "Furniture",
+      "defname": "RRDalianWardrobe",
+      "price": 251
+    },
+    {
+      "abr": "dandongdesklamp",
+      "category": "Furniture",
+      "defname": "RRDandongLamp",
+      "price": 69
+    },
+    {
+      "abr": "displaycabinet",
+      "category": "Storage",
+      "defname": "sbz_DisplayCabinet",
+      "price": 115
+    },
+    {
+      "abr": "displayshelf",
+      "category": "Storage",
+      "defname": "sbz_DisplayShelf",
+      "price": 82
+    },
+    {
+      "abr": "displaytable",
+      "category": "Storage",
+      "defname": "sbz_DisplayTable",
+      "price": 41
+    },
+    {
+      "abr": "gogametable",
+      "category": "Furniture",
+      "defname": "RRGoTable",
+      "price": 281
+    },
+    {
+      "abr": "hangershelf",
+      "category": "Storage",
+      "defname": "sbz_WideHangerShelf",
+      "price": 115
+    },
+    {
+      "abr": "hangzhoutvstand",
+      "category": "Furniture",
+      "defname": "RRHangzhouStand",
+      "price": 475
+    },
+    {
+      "abr": "hefeidiningchair",
+      "category": "Furniture",
+      "defname": "RRHefeiChair",
+      "price": 198
+    },
+    {
+      "abr": "horizontalweaponrack",
+      "category": "Storage",
+      "defname": "sbz_HorizontalWeaponRack",
+      "price": 148
+    },
+    {
+      "abr": "jinzhoudesklamp",
+      "category": "Furniture",
+      "defname": "RRJinzhouLamp",
+      "price": 58
+    },
+    {
+      "abr": "kunmingsinglebed",
+      "category": "Furniture",
+      "defname": "RRKunmingSingleBed",
+      "price": 208
+    },
+    {
+      "abr": "largecrate",
+      "category": "Storage",
+      "defname": "sbz_Crate",
+      "price": 417
+    },
+    {
+      "abr": "lijiangendtable",
+      "category": "Furniture",
+      "defname": "RRLijiangEndtable",
+      "price": 145
+    },
+    {
+      "abr": "lincangdresser",
+      "category": "Furniture",
+      "defname": "RRLincangDresser",
+      "price": 183
+    },
+    {
+      "abr": "meathook",
+      "category": "Storage",
+      "defname": "sbz_MeatHook",
+      "price": 148
+    },
+    {
+      "abr": "nanchangdiningtable(2x2)",
+      "category": "Furniture",
+      "defname": "RRNanchangDiningTable",
+      "price": 342
+    },
+    {
+      "abr": "nanjingsofa",
+      "category": "Furniture",
+      "defname": "RRNanjingSofa",
+      "price": 450
+    },
+    {
+      "abr": "narrowdisplaycabinet",
+      "category": "Storage",
+      "defname": "sbz_NarrowDisplayCabinet",
+      "price": 58
+    },
+    {
+      "abr": "narrowhangershelf",
+      "category": "Storage",
+      "defname": "sbz_HangerShelf",
+      "price": 58
+    },
+    {
+      "abr": "narrowtalldisplayshelf",
+      "category": "Storage",
+      "defname": "sbz_NarrowTallDisplayShelf",
+      "price": 74
+    },
+    {
+      "abr": "ningbotvstand",
+      "category": "Furniture",
+      "defname": "RRNingboStand",
+      "price": 475
+    },
+    {
+      "abr": "openshelf",
+      "category": "Storage",
+      "defname": "sbz_OpenShelf",
+      "price": 148
+    },
+    {
+      "abr": "pallet",
+      "category": "Storage",
+      "defname": "sbz_Pallet",
+      "price": 282
+    },
+    {
+      "abr": "pingxiangdiningtable(1x2)",
+      "category": "Furniture",
+      "defname": "RRPingxiangDiningTable",
+      "price": 272
+    },
+    {
+      "abr": "pingxiangdiningtable(2x2)",
+      "category": "Furniture",
+      "defname": "RRPingxiangDiningTableTwo",
+      "price": 433
+    },
+    {
+      "abr": "qujingscreen",
+      "category": "Furniture",
+      "defname": "RRQujingScreen",
+      "price": 224
+    },
+    {
+      "abr": "shanghaicouch",
+      "category": "Furniture",
+      "defname": "RRShanghaiSofaLong",
+      "price": 875
+    },
+    {
+      "abr": "shanghaisofa",
+      "category": "Furniture",
+      "defname": "RRShanghaiSofa",
+      "price": 625
+    },
+    {
+      "abr": "smallcrate",
+      "category": "Storage",
+      "defname": "sbz_SmallCrate",
+      "price": 108
+    },
+    {
+      "abr": "smalldisplayshelf",
+      "category": "Storage",
+      "defname": "sbz_SmallDisplayShelf",
+      "price": 41
+    },
+    {
+      "abr": "suzhoudesk",
+      "category": "Furniture",
+      "defname": "RRSuzhouDesk",
+      "price": 204
+    },
+    {
+      "abr": "taiyuandoublebed",
+      "category": "Furniture",
+      "defname": "RRTaiyuanDoubleBed",
+      "price": 330
+    },
+    {
+      "abr": "talldisplayshelf",
+      "category": "Storage",
+      "defname": "sbz_TallDisplayShelf",
+      "price": 148
+    },
+    {
+      "abr": "textilerack",
+      "category": "Storage",
+      "defname": "sbz_TextileRack",
+      "price": 141
+    },
+    {
+      "abr": "verticalweaponrack",
+      "category": "Storage",
+      "defname": "sbz_VerticalWeaponRack",
+      "price": 148
+    },
+    {
+      "abr": "guestkunmingsinglebed",
+      "category": "Furniture",
+      "defname": "RRKunmingSingleBedGuest",
+      "price": 208
+    },
+    {
+      "abr": "guesttaiyuandoublebed",
+      "category": "Furniture",
+      "defname": "RRTaiyuanDoubleBedGuest",
+      "price": 330
+    },
+    {
+      "abr": "guestchangzhisinglebed",
+      "category": "Furniture",
+      "defname": "RRChangzhiSingleBedGuest",
+      "price": 208
     }
   ],
-  "total": 2876
+  "total": 2912
 }

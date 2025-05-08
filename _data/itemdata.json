@@ -3221,12 +3221,12 @@
   },
   "WoodLog": {
     "CustomName": null,
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": true,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": true,
-    "QuantityLimit": -1,
+    "QuantityLimit": 250,
     "Weight": 1.0,
     "ResearchOverrides": null,
     "IsUsable": false,
@@ -3234,10 +3234,10 @@
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
+    "KarmaTypeForEquipping": "Neutral",
     "version": 2,
     "Mod": "RimWorld",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "Uranium": {
     "CustomName": null,
@@ -3381,12 +3381,12 @@
   },
   "WoolAlpaca": {
     "CustomName": null,
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "QuantityLimit": -1,
+    "QuantityLimit": 200,
     "Weight": 1.0,
     "ResearchOverrides": null,
     "IsUsable": false,
@@ -3397,7 +3397,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "RimWorld",
-    "KarmaType": null
+    "KarmaType": "Neutral"
   },
   "WoolMegasloth": {
     "CustomName": null,
