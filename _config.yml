@@ -43,10 +43,10 @@ store:
     usage: true
   events:
     usage: true
-    mod: true
+    mod: false
   animals:
     usage: true
-    mod: true
+    mod: false
     weight: true
     quantity: true
     karma: true
