@@ -3628,13 +3628,13 @@
           "+3 Honor value"
         ],
         "mod": "Unknown",
-        "karmaType": null
+        "karmaType": "Neutral"
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 1200
+      "price": 700
     }
   ]
 }

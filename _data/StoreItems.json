@@ -20,67 +20,67 @@
     },
     {
       "abr": "beer",
-      "category": "Drugs",
+      "category": "Social",
       "defname": "Beer",
       "price": 50
     },
     {
       "abr": "wort",
-      "category": "Manufactured",
+      "category": "Musts and syrups",
       "defname": "Wort",
       "price": -10
     },
     {
       "abr": "ambrosia",
-      "category": "Drugs",
+      "category": "Social",
       "defname": "Ambrosia",
       "price": -10
     },
     {
       "abr": "go-juice",
-      "category": "Drugs",
+      "category": "Hard",
       "defname": "GoJuice",
       "price": -10
     },
     {
       "abr": "luciferium",
-      "category": "Drugs",
+      "category": "Medical",
       "defname": "Luciferium",
       "price": -10
     },
     {
       "abr": "penoxycyline",
-      "category": "Drugs",
+      "category": "Medical",
       "defname": "Penoxycyline",
       "price": -10
     },
     {
       "abr": "flake",
-      "category": "Drugs",
+      "category": "Hard",
       "defname": "Flake",
       "price": -10
     },
     {
       "abr": "psychitetea",
-      "category": "Drugs",
+      "category": "Non-alcoholic drinks",
       "defname": "PsychiteTea",
       "price": -10
     },
     {
       "abr": "yayo",
-      "category": "Drugs",
+      "category": "Hard",
       "defname": "Yayo",
       "price": -10
     },
     {
       "abr": "smokeleafjoint",
-      "category": "Drugs",
+      "category": "Social",
       "defname": "SmokeleafJoint",
       "price": -10
     },
     {
       "abr": "wake-up",
-      "category": "Drugs",
+      "category": "Hard",
       "defname": "WakeUp",
       "price": -10
     },
@@ -614,13 +614,13 @@
     },
     {
       "abr": "healermechserum",
-      "category": "Drugs",
+      "category": "Sera",
       "defname": "MechSerumHealer",
       "price": 2167
     },
     {
       "abr": "resurrectormechserum",
-      "category": "Drugs",
+      "category": "Sera",
       "defname": "MechSerumResurrector",
       "price": -10
     },
@@ -656,43 +656,43 @@
     },
     {
       "abr": "simplemeal",
-      "category": "Meals",
+      "category": "Basic meals",
       "defname": "MealSimple",
       "price": -10
     },
     {
       "abr": "finemeal",
-      "category": "Meals",
+      "category": "Basic meals",
       "defname": "MealFine",
       "price": 33
     },
     {
       "abr": "vegetarianfinemeal",
-      "category": "Meals",
+      "category": "Basic meals",
       "defname": "MealFine_Veg",
       "price": -10
     },
     {
       "abr": "carnivorefinemeal",
-      "category": "Meals",
+      "category": "Basic meals",
       "defname": "MealFine_Meat",
       "price": -10
     },
     {
       "abr": "lavishmeal",
-      "category": "Meals",
+      "category": "Basic meals",
       "defname": "MealLavish",
       "price": -10
     },
     {
       "abr": "vegetarianlavishmeal",
-      "category": "Meals",
+      "category": "Basic meals",
       "defname": "MealLavish_Veg",
       "price": -10
     },
     {
       "abr": "carnivorelavishmeal",
-      "category": "Meals",
+      "category": "Basic meals",
       "defname": "MealLavish_Meat",
       "price": -10
     },
@@ -716,7 +716,7 @@
     },
     {
       "abr": "milk",
-      "category": "Animal products",
+      "category": "Milk",
       "defname": "Milk",
       "price": -10
     },
@@ -1586,7 +1586,7 @@
     },
     {
       "abr": "dye",
-      "category": "Plant matter",
+      "category": "Manufactured",
       "defname": "Dye",
       "price": -10
     },
@@ -3026,7 +3026,7 @@
     },
     {
       "abr": "deathrestcapacityserum",
-      "category": "Drugs",
+      "category": "Sera",
       "defname": "DeathrestCapacitySerum",
       "price": -10
     },
@@ -4754,7 +4754,7 @@
     },
     {
       "abr": "cider",
-      "category": "Drugs",
+      "category": "Social",
       "defname": "VBE_Cider",
       "price": -10
     },
@@ -4820,133 +4820,133 @@
     },
     {
       "abr": "ambrandy(awful)",
-      "category": "Drugs",
+      "category": "Social",
       "defname": "VBE_AmbrandyAwful",
       "price": -10
     },
     {
       "abr": "ambrandy(poor)",
-      "category": "Drugs",
+      "category": "Social",
       "defname": "VBE_AmbrandyPoor",
       "price": -10
     },
     {
       "abr": "ambrandy(normal)",
-      "category": "Drugs",
+      "category": "Social",
       "defname": "VBE_AmbrandyNormal",
       "price": -10
     },
     {
       "abr": "ambrandy(good)",
-      "category": "Drugs",
+      "category": "Social",
       "defname": "VBE_AmbrandyGood",
       "price": -10
     },
     {
       "abr": "ambrandy(excellent)",
-      "category": "Drugs",
+      "category": "Social",
       "defname": "VBE_AmbrandyExcellent",
       "price": -10
     },
     {
       "abr": "ambrandy(masterwork)",
-      "category": "Drugs",
+      "category": "Social",
       "defname": "VBE_AmbrandyMasterwork",
       "price": -10
     },
     {
       "abr": "ambrandy(legendary)",
-      "category": "Drugs",
+      "category": "Social",
       "defname": "VBE_AmbrandyLegendary",
       "price": -10
     },
     {
       "abr": "gin",
-      "category": "Drugs",
+      "category": "Social",
       "defname": "VBE_Gin",
       "price": -10
     },
     {
       "abr": "tequila",
-      "category": "Drugs",
+      "category": "Social",
       "defname": "VBE_Tequila",
       "price": -10
     },
     {
       "abr": "vodka",
-      "category": "Drugs",
+      "category": "Social",
       "defname": "VBE_Vodka",
       "price": -10
     },
     {
       "abr": "whiskey",
-      "category": "Drugs",
+      "category": "Social",
       "defname": "VBE_Whiskey",
       "price": -10
     },
     {
       "abr": "double-agedwhiskey",
-      "category": "Drugs",
+      "category": "Social",
       "defname": "VBE_DoubleWhiskey",
       "price": -10
     },
     {
       "abr": "coffee",
-      "category": "Drugs",
+      "category": "Social",
       "defname": "VBE_HotCoffee",
       "price": 13
     },
     {
       "abr": "icedcoffee",
-      "category": "Drugs",
+      "category": "Social",
       "defname": "VBE_IceCoffee",
       "price": -10
     },
     {
       "abr": "energydrink",
-      "category": "Drugs",
+      "category": "Social",
       "defname": "VBE_EnergyDrink",
       "price": 35
     },
     {
       "abr": "juice",
-      "category": "Meals",
+      "category": "Non-alcoholic drinks",
       "defname": "VBE_Juice",
       "price": -10
     },
     {
       "abr": "soda",
-      "category": "Drugs",
+      "category": "Social",
       "defname": "VBE_Soda",
       "price": 20
     },
     {
       "abr": "tea",
-      "category": "Drugs",
+      "category": "Social",
       "defname": "VBE_Tea",
       "price": -10
     },
     {
       "abr": "simplecocktail",
-      "category": "Meals",
+      "category": "Cocktails",
       "defname": "VBE_SimpleCocktail",
       "price": -10
     },
     {
       "abr": "finecocktail",
-      "category": "Meals",
+      "category": "Cocktails",
       "defname": "VBE_FineCocktail",
       "price": 33
     },
     {
       "abr": "lavishcocktail",
-      "category": "Meals",
+      "category": "Cocktails",
       "defname": "VBE_LavishCocktail",
       "price": -10
     },
     {
       "abr": "gourmetcocktail",
-      "category": "Meals",
+      "category": "Cocktails",
       "defname": "VBE_GourmetCocktail",
       "price": -10
     },
@@ -5012,49 +5012,49 @@
     },
     {
       "abr": "cigarettes",
-      "category": "Drugs",
+      "category": "Social",
       "defname": "VBE_Cigarettes",
       "price": 75
     },
     {
       "abr": "cigars",
-      "category": "Drugs",
+      "category": "Social",
       "defname": "VBE_Cigars",
       "price": 120
     },
     {
       "abr": "dalgonacoffee",
-      "category": "Drugs",
+      "category": "Social",
       "defname": "VBE_DalgonaCoffee",
       "price": -10
     },
     {
       "abr": "greentea",
-      "category": "Drugs",
+      "category": "Social",
       "defname": "VBE_GreenTea",
       "price": 23
     },
     {
       "abr": "masalachai",
-      "category": "Drugs",
+      "category": "Social",
       "defname": "VBE_MasalaChai",
       "price": -10
     },
     {
       "abr": "mintcoffee",
-      "category": "Drugs",
+      "category": "Social",
       "defname": "VBE_MintCoffee",
       "price": -10
     },
     {
       "abr": "minttea",
-      "category": "Drugs",
+      "category": "Social",
       "defname": "VBE_MintTea",
       "price": -10
     },
     {
       "abr": "noonchai",
-      "category": "Drugs",
+      "category": "Social",
       "defname": "VBE_NoonChai",
       "price": -10
     },
@@ -5066,25 +5066,25 @@
     },
     {
       "abr": "earlgreytea",
-      "category": "Drugs",
+      "category": "Social",
       "defname": "VBE_EarlGreyTea",
       "price": -10
     },
     {
       "abr": "espressoromano",
-      "category": "Drugs",
+      "category": "Social",
       "defname": "VBE_LemonCoffee",
       "price": -10
     },
     {
       "abr": "lemonade",
-      "category": "Drugs",
+      "category": "Social",
       "defname": "VBE_Lemonade",
       "price": -10
     },
     {
       "abr": "lemontea",
-      "category": "Drugs",
+      "category": "Social",
       "defname": "VBE_LemonTea",
       "price": -10
     },
@@ -5102,49 +5102,49 @@
     },
     {
       "abr": "blacktea",
-      "category": "Drugs",
+      "category": "Social",
       "defname": "VBE_BlackTea",
       "price": -10
     },
     {
       "abr": "cannibalcoffee",
-      "category": "Drugs",
+      "category": "Social",
       "defname": "VBE_CannibalCoffee",
       "price": -10
     },
     {
       "abr": "irishcoffee",
-      "category": "Drugs",
+      "category": "Social",
       "defname": "VBE_IrishCoffee",
       "price": -10
     },
     {
       "abr": "kombuchatea",
-      "category": "Drugs",
+      "category": "Social",
       "defname": "VBE_Kombucha",
       "price": 30
     },
     {
       "abr": "lattecoffee",
-      "category": "Drugs",
+      "category": "Social",
       "defname": "VBE_LatteCoffee",
       "price": -10
     },
     {
       "abr": "mochacoffee",
-      "category": "Drugs",
+      "category": "Social",
       "defname": "VBE_MochaCoffee",
       "price": -10
     },
     {
       "abr": "pumpkinspicecoffee",
-      "category": "Drugs",
+      "category": "Social",
       "defname": "VBE_PumpkinCoffee",
       "price": -10
     },
     {
       "abr": "yuenyeung",
-      "category": "Drugs",
+      "category": "Social",
       "defname": "VBE_Yuenyeung",
       "price": -10
     },
@@ -5186,25 +5186,25 @@
     },
     {
       "abr": "simplebake",
-      "category": "Meals",
+      "category": "Pastry",
       "defname": "VCE_SimpleBake",
       "price": -10
     },
     {
       "abr": "finebake",
-      "category": "Meals",
+      "category": "Pastry",
       "defname": "VCE_FineBake",
       "price": -10
     },
     {
       "abr": "lavishbake",
-      "category": "Meals",
+      "category": "Pastry",
       "defname": "VCE_LavishBake",
       "price": -10
     },
     {
       "abr": "gourmetbake",
-      "category": "Meals",
+      "category": "Pastry",
       "defname": "VCE_GourmetBake",
       "price": -10
     },
@@ -5240,7 +5240,7 @@
     },
     {
       "abr": "cheese",
-      "category": "Meals",
+      "category": "Cheese",
       "defname": "VCE_Cheese",
       "price": 17
     },
@@ -5300,97 +5300,97 @@
     },
     {
       "abr": "deepfriedmeat",
-      "category": "Meals",
+      "category": "Deep fried",
       "defname": "VCE_DeepFriedBigMeat",
       "price": -10
     },
     {
       "abr": "deepfriedvegetables",
-      "category": "Meals",
+      "category": "Deep fried",
       "defname": "VCE_DeepFriedVegetables",
       "price": -10
     },
     {
       "abr": "deepfriedfish",
-      "category": "Meals",
+      "category": "Deep fried",
       "defname": "VCE_DeepFriedFish",
       "price": -10
     },
     {
       "abr": "simpledessert",
-      "category": "Meals",
+      "category": "Desserts",
       "defname": "VCE_SimpleDessert",
       "price": -10
     },
     {
       "abr": "finedessert",
-      "category": "Meals",
+      "category": "Desserts",
       "defname": "VCE_FineDessert",
       "price": 33
     },
     {
       "abr": "lavishdessert",
-      "category": "Meals",
+      "category": "Desserts",
       "defname": "VCE_LavishDessert",
       "price": -10
     },
     {
       "abr": "gourmetdessert",
-      "category": "Meals",
+      "category": "Desserts",
       "defname": "VCE_GourmetDessert",
       "price": -10
     },
     {
       "abr": "gourmetmeal",
-      "category": "Meals",
+      "category": "Basic meals",
       "defname": "VCE_MealGourmet",
       "price": 117
     },
     {
       "abr": "simplegrill",
-      "category": "Meals",
+      "category": "Grills",
       "defname": "VCE_SimpleGrill",
       "price": -10
     },
     {
       "abr": "ruinedsimplegrill",
-      "category": "Meals",
+      "category": "Ruined grills",
       "defname": "VCE_RuinedSimpleGrill",
       "price": -10
     },
     {
       "abr": "finegrill",
-      "category": "Meals",
+      "category": "Grills",
       "defname": "VCE_FineGrill",
       "price": 33
     },
     {
       "abr": "ruinedfinegrill",
-      "category": "Meals",
+      "category": "Ruined grills",
       "defname": "VCE_RuinedFineGrill",
       "price": -10
     },
     {
       "abr": "lavishgrill",
-      "category": "Meals",
+      "category": "Grills",
       "defname": "VCE_LavishGrill",
       "price": -10
     },
     {
       "abr": "ruinedlavishgrill",
-      "category": "Meals",
+      "category": "Ruined grills",
       "defname": "VCE_RuinedLavishGrill",
       "price": -10
     },
     {
       "abr": "gourmetgrill",
-      "category": "Meals",
+      "category": "Grills",
       "defname": "VCE_GourmetGrill",
       "price": -10
     },
     {
       "abr": "ruinedgourmetgrill",
-      "category": "Meals",
+      "category": "Ruined grills",
       "defname": "VCE_RuinedGourmetGrill",
       "price": -10
     },
@@ -5408,7 +5408,7 @@
     },
     {
       "abr": "simplesoup",
-      "category": "Meals",
+      "category": "Soups",
       "defname": "VCE_CookedSoupSimple",
       "price": 21
     },
@@ -5420,7 +5420,7 @@
     },
     {
       "abr": "finesoup",
-      "category": "Meals",
+      "category": "Soups",
       "defname": "VCE_CookedSoupFine",
       "price": -10
     },
@@ -5432,7 +5432,7 @@
     },
     {
       "abr": "lavishsoup",
-      "category": "Meals",
+      "category": "Soups",
       "defname": "VCE_CookedSoupLavish",
       "price": -10
     },
@@ -5444,7 +5444,7 @@
     },
     {
       "abr": "gourmetsoup",
-      "category": "Meals",
+      "category": "Soups",
       "defname": "VCE_CookedSoupGourmet",
       "price": -10
     },
@@ -5474,13 +5474,13 @@
     },
     {
       "abr": "deepfriedsushi",
-      "category": "Meals",
+      "category": "Deep fried",
       "defname": "VCE_DeepFriedSushi",
       "price": -10
     },
     {
-      "abr": "human\"surimi\"",
-      "category": "Raw fish",
+      "abr": "humansurimi",
+      "category": "Nasty meat",
       "defname": "VCE_HumanSurimi",
       "price": -10
     },
@@ -5498,67 +5498,67 @@
     },
     {
       "abr": "chirashizushibowl(simple)",
-      "category": "Meals",
+      "category": "Sushi",
       "defname": "VCE_Chirashizushi",
       "price": -10
     },
     {
       "abr": "norimaki(simple)",
-      "category": "Meals",
+      "category": "Sushi",
       "defname": "VCE_Norimaki",
       "price": -10
     },
     {
       "abr": "uramaki(fine)",
-      "category": "Meals",
+      "category": "Sushi",
       "defname": "VCE_Uramaki",
       "price": -10
     },
     {
       "abr": "nigiri(fine)",
-      "category": "Meals",
+      "category": "Sushi",
       "defname": "VCE_Nigiri",
       "price": -10
     },
     {
       "abr": "temaki(lavish)",
-      "category": "Meals",
+      "category": "Sushi",
       "defname": "VCE_Temaki",
       "price": -10
     },
     {
       "abr": "futomaki(lavish)",
-      "category": "Meals",
+      "category": "Sushi",
       "defname": "VCE_Futomaki",
       "price": -10
     },
     {
       "abr": "gunkanmaki(gourmet)",
-      "category": "Meals",
+      "category": "Sushi",
       "defname": "VCE_Gunkanmaki",
       "price": -10
     },
     {
       "abr": "oshizushi(gourmet)",
-      "category": "Meals",
+      "category": "Sushi",
       "defname": "VCE_Oshizushi",
       "price": -10
     },
     {
       "abr": "mechanoidegg",
-      "category": "Drugs",
+      "category": "Social",
       "defname": "GR_ElectroEgg",
       "price": -10
     },
     {
       "abr": "featherdustjoint",
-      "category": "Drugs",
+      "category": "Social",
       "defname": "GR_FeatherdustJoint",
       "price": -10
     },
     {
       "abr": "poisonampoule",
-      "category": "Drugs",
+      "category": "Medical",
       "defname": "GR_PoisonAmpoule",
       "price": -10
     },
@@ -6416,85 +6416,85 @@
     },
     {
       "abr": "weirdmilk",
-      "category": "Animal products",
+      "category": "Milk",
       "defname": "GR_WeirdMilk",
       "price": -10
     },
     {
       "abr": "mechanoidmilk",
-      "category": "Animal products",
+      "category": "Milk",
       "defname": "GR_MechaMilk",
       "price": -10
     },
     {
       "abr": "bearffalomilk",
-      "category": "Animal products",
+      "category": "Milk",
       "defname": "GR_BearffaloMilk",
       "price": -10
     },
     {
       "abr": "thrumffalomilk",
-      "category": "Animal products",
+      "category": "Milk",
       "defname": "GR_ThrumffaloMilk",
       "price": -10
     },
     {
       "abr": "muffalochickenmilk",
-      "category": "Animal products",
+      "category": "Milk",
       "defname": "GR_MuffalochickenMilk",
       "price": -10
     },
     {
       "abr": "chickenffalomilk",
-      "category": "Animal products",
+      "category": "Milk",
       "defname": "GR_ChickenffaloMilk",
       "price": -10
     },
     {
       "abr": "muffalobearmilk",
-      "category": "Animal products",
+      "category": "Milk",
       "defname": "GR_MuffalobearMilk",
       "price": -10
     },
     {
       "abr": "hairymilk",
-      "category": "Animal products",
+      "category": "Milk",
       "defname": "GR_WolffaloMilk",
       "price": -10
     },
     {
       "abr": "ratffalomilk",
-      "category": "Animal products",
+      "category": "Milk",
       "defname": "GR_RatMilk",
       "price": -10
     },
     {
       "abr": "chickenbearfeathers",
-      "category": "Raw resources",
+      "category": "Manufactured",
       "defname": "GR_Chickenbearfeathers",
       "price": -10
     },
     {
       "abr": "hugebearpelt",
-      "category": "Raw resources",
+      "category": "Misc",
       "defname": "GR_HugeBearPelt",
       "price": -10
     },
     {
       "abr": "bearcatpelt",
-      "category": "Raw resources",
+      "category": "Misc",
       "defname": "GR_HugeBearCatPelt",
       "price": -10
     },
     {
       "abr": "wolfpelt",
-      "category": "Raw resources",
+      "category": "Misc",
       "defname": "GR_WolfPelt",
       "price": -10
     },
     {
       "abr": "muffalopelt",
-      "category": "Raw resources",
+      "category": "Misc",
       "defname": "GR_MuffaloPelt",
       "price": -10
     },
@@ -7292,7 +7292,7 @@
     },
     {
       "abr": "agepills",
-      "category": "Drugs",
+      "category": "Medical",
       "defname": "GR_AgePills",
       "price": -10
     },
@@ -8264,7 +8264,7 @@
     },
     {
       "abr": "walrustusk",
-      "category": "Items",
+      "category": "Misc",
       "defname": "AEXP_WalrusTusk",
       "price": -10
     },
@@ -12008,25 +12008,25 @@
     },
     {
       "abr": "gardentea",
-      "category": "Garden Drinks",
+      "category": "Social",
       "defname": "Cuptea",
       "price": -10
     },
     {
       "abr": "barleytea",
-      "category": "Garden Drinks",
+      "category": "Social",
       "defname": "VG_BarleyTea",
       "price": -10
     },
     {
       "abr": "gardencoffee",
-      "category": "Garden Drinks",
+      "category": "Social",
       "defname": "Coffee",
       "price": -10
     },
     {
       "abr": "fruitjuicedrink",
-      "category": "Garden Drinks",
+      "category": "Social",
       "defname": "Fruitdrink",
       "price": -10
     },
@@ -12200,7 +12200,7 @@
     },
     {
       "abr": "honeymead",
-      "category": "Drugs",
+      "category": "Social",
       "defname": "Mead",
       "price": -10
     },
@@ -13556,37 +13556,37 @@
     },
     {
       "abr": "uncookedsimplestew",
-      "category": "Uncooked stew",
+      "category": "Uncooked stews",
       "defname": "VCE_UncookedStewSimple",
       "price": -10
     },
     {
       "abr": "simplestew",
-      "category": "Meals",
+      "category": "Stews",
       "defname": "VCE_CookedStewSimple",
       "price": 24
     },
     {
       "abr": "uncookedfinestew",
-      "category": "Uncooked stew",
+      "category": "Uncooked stews",
       "defname": "VCE_UncookedStewFine",
       "price": -10
     },
     {
       "abr": "finestew",
-      "category": "Meals",
+      "category": "Stews",
       "defname": "VCE_CookedStewFine",
       "price": -10
     },
     {
       "abr": "uncookedlavishstew",
-      "category": "Uncooked stew",
+      "category": "Uncooked stews",
       "defname": "VCE_UncookedStewLavish",
       "price": -10
     },
     {
       "abr": "lavishstew",
-      "category": "Meals",
+      "category": "Stews",
       "defname": "VCE_CookedStewLavish",
       "price": -10
     },
@@ -14462,55 +14462,55 @@
     },
     {
       "abr": "weirdcheese",
-      "category": "Meals",
+      "category": "Cheese",
       "defname": "VCE_WeirdCheese",
       "price": -10
     },
     {
       "abr": "mechacheese",
-      "category": "Meals",
+      "category": "Cheese",
       "defname": "VCE_MechaCheese",
       "price": -10
     },
     {
       "abr": "bearffalocheese",
-      "category": "Meals",
+      "category": "Cheese",
       "defname": "VCE_BearffaloCheese",
       "price": -10
     },
     {
       "abr": "thrumffalogouda",
-      "category": "Meals",
+      "category": "Cheese",
       "defname": "VCE_ThrumffaloGouda",
       "price": -10
     },
     {
       "abr": "lumpycheese",
-      "category": "Meals",
+      "category": "Cheese",
       "defname": "VCE_LumpyCheese",
       "price": -10
     },
     {
       "abr": "chickenffalocheese",
-      "category": "Meals",
+      "category": "Cheese",
       "defname": "VCE_ChickenffaloCheese",
       "price": -10
     },
     {
       "abr": "browncheese",
-      "category": "Meals",
+      "category": "Cheese",
       "defname": "VCE_BrownCheese",
       "price": -10
     },
     {
       "abr": "hairycheese",
-      "category": "Meals",
+      "category": "Cheese",
       "defname": "VCE_HairyCheese",
       "price": -10
     },
     {
       "abr": "ratcheese",
-      "category": "Meals",
+      "category": "Cheese",
       "defname": "VCE_RatCheese",
       "price": -10
     },
@@ -15289,537 +15289,21 @@
       "price": -10
     },
     {
-      "abr": "bearmeat",
-      "category": "Meat",
-      "defname": "Meat_Bear_Grizzly",
-      "price": -10
-    },
-    {
-      "abr": "birdmeat",
-      "category": "Meat",
-      "defname": "Meat_Cassowary",
-      "price": -10
-    },
-    {
-      "abr": "cougarmeat",
-      "category": "Meat",
-      "defname": "Meat_Cougar",
-      "price": -10
-    },
-    {
-      "abr": "panthermeat",
-      "category": "Meat",
-      "defname": "Meat_Panther",
-      "price": -10
-    },
-    {
-      "abr": "lynxmeat",
-      "category": "Meat",
-      "defname": "Meat_Lynx",
-      "price": -10
-    },
-    {
-      "abr": "catmeat",
-      "category": "Meat",
-      "defname": "Meat_Cat",
-      "price": -10
-    },
-    {
-      "abr": "yorkshireterriermeat",
-      "category": "Meat",
-      "defname": "Meat_YorkshireTerrier",
-      "price": -10
-    },
-    {
-      "abr": "guineapigmeat",
-      "category": "Meat",
-      "defname": "Meat_GuineaPig",
-      "price": -10
-    },
-    {
-      "abr": "labradorretrievermeat",
-      "category": "Meat",
-      "defname": "Meat_LabradorRetriever",
-      "price": -10
-    },
-    {
-      "abr": "huskymeat",
-      "category": "Meat",
-      "defname": "Meat_Husky",
-      "price": -10
-    },
-    {
-      "abr": "monkeymeat",
-      "category": "Meat",
-      "defname": "Meat_Monkey",
-      "price": -10
-    },
-    {
-      "abr": "chickenmeat",
-      "category": "Meat",
-      "defname": "Meat_Chicken",
-      "price": 3
-    },
-    {
-      "abr": "duckmeat",
-      "category": "Meat",
-      "defname": "Meat_Duck",
-      "price": -10
-    },
-    {
-      "abr": "turkeymeat",
-      "category": "Meat",
-      "defname": "Meat_Turkey",
-      "price": -10
-    },
-    {
       "abr": "beef",
       "category": "Meat",
       "defname": "Meat_Cow",
       "price": -10
     },
     {
-      "abr": "boomalopemeat",
-      "category": "Meat",
-      "defname": "Meat_Boomalope",
-      "price": -10
-    },
-    {
-      "abr": "muffalomeat",
-      "category": "Meat",
-      "defname": "Meat_Muffalo",
-      "price": -10
-    },
-    {
-      "abr": "bisonmeat",
-      "category": "Meat",
-      "defname": "Meat_Bison",
-      "price": -10
-    },
-    {
-      "abr": "dromedarymeat",
-      "category": "Meat",
-      "defname": "Meat_Dromedary",
-      "price": -10
-    },
-    {
-      "abr": "goatmeat",
-      "category": "Meat",
-      "defname": "Meat_Goat",
-      "price": -10
-    },
-    {
-      "abr": "elkmeat",
-      "category": "Meat",
-      "defname": "Meat_Elk",
-      "price": -10
-    },
-    {
-      "abr": "yakbeef",
-      "category": "Meat",
-      "defname": "Meat_Yak",
-      "price": -10
-    },
-    {
-      "abr": "cariboumeat",
-      "category": "Meat",
-      "defname": "Meat_Caribou",
-      "price": -10
-    },
-    {
-      "abr": "horsemeat",
-      "category": "Meat",
-      "defname": "Meat_Horse",
-      "price": -10
-    },
-    {
-      "abr": "donkeymeat",
-      "category": "Meat",
-      "defname": "Meat_Donkey",
-      "price": -10
-    },
-    {
-      "abr": "elephantmeat",
-      "category": "Meat",
-      "defname": "Meat_Elephant",
-      "price": -10
-    },
-    {
-      "abr": "rhinocerosmeat",
-      "category": "Meat",
-      "defname": "Meat_Rhinoceros",
-      "price": -10
-    },
-    {
-      "abr": "haremeat",
-      "category": "Meat",
-      "defname": "Meat_Hare",
-      "price": -10
-    },
-    {
       "abr": "insectmeat",
-      "category": "Meat",
+      "category": "Nasty meat",
       "defname": "Meat_Megaspider",
       "price": 20
     },
     {
-      "abr": "thrumbomeat",
-      "category": "Meat",
-      "defname": "Meat_Thrumbo",
-      "price": -10
-    },
-    {
-      "abr": "cobrameat",
-      "category": "Meat",
-      "defname": "Meat_Cobra",
-      "price": -10
-    },
-    {
-      "abr": "tortoisemeat",
-      "category": "Meat",
-      "defname": "Meat_Tortoise",
-      "price": -10
-    },
-    {
-      "abr": "alphabeavermeat",
-      "category": "Meat",
-      "defname": "Meat_Alphabeaver",
-      "price": -10
-    },
-    {
-      "abr": "pork",
-      "category": "Meat",
-      "defname": "Meat_Pig",
-      "price": 3
-    },
-    {
-      "abr": "ibexmeat",
-      "category": "Meat",
-      "defname": "Meat_Ibex",
-      "price": -10
-    },
-    {
-      "abr": "venison",
-      "category": "Meat",
-      "defname": "Meat_Deer",
-      "price": 3
-    },
-    {
-      "abr": "gazellemeat",
-      "category": "Meat",
-      "defname": "Meat_Gazelle",
-      "price": -10
-    },
-    {
-      "abr": "chinchillameat",
-      "category": "Meat",
-      "defname": "Meat_Chinchilla",
-      "price": -10
-    },
-    {
-      "abr": "sheepmeat",
-      "category": "Meat",
-      "defname": "Meat_Sheep",
-      "price": -10
-    },
-    {
-      "abr": "alpacameat",
-      "category": "Meat",
-      "defname": "Meat_Alpaca",
-      "price": -10
-    },
-    {
-      "abr": "megaslothmeat",
-      "category": "Meat",
-      "defname": "Meat_Megasloth",
-      "price": -10
-    },
-    {
-      "abr": "capybarameat",
-      "category": "Meat",
-      "defname": "Meat_Capybara",
-      "price": -10
-    },
-    {
-      "abr": "squirrelmeat",
-      "category": "Meat",
-      "defname": "Meat_Squirrel",
-      "price": -10
-    },
-    {
-      "abr": "ratmeat",
-      "category": "Meat",
-      "defname": "Meat_Rat",
-      "price": 3
-    },
-    {
-      "abr": "boomratmeat",
-      "category": "Meat",
-      "defname": "Meat_Boomrat",
-      "price": -10
-    },
-    {
-      "abr": "raccoonmeat",
-      "category": "Meat",
-      "defname": "Meat_Raccoon",
-      "price": -10
-    },
-    {
-      "abr": "iguanameat",
-      "category": "Meat",
-      "defname": "Meat_Iguana",
-      "price": -10
-    },
-    {
-      "abr": "wargmeat",
-      "category": "Meat",
-      "defname": "Meat_Warg",
-      "price": -10
-    },
-    {
-      "abr": "wolfmeat",
-      "category": "Meat",
-      "defname": "Meat_Wolf_Timber",
-      "price": -10
-    },
-    {
-      "abr": "foxmeat",
-      "category": "Meat",
-      "defname": "Meat_Fox_Fennec",
-      "price": -10
-    },
-    {
       "abr": "humanmeat",
-      "category": "Meat",
+      "category": "Nasty meat",
       "defname": "Meat_Human",
-      "price": -10
-    },
-    {
-      "abr": "immaturedryadmeat",
-      "category": "Meat",
-      "defname": "Meat_Dryad_Basic",
-      "price": -10
-    },
-    {
-      "abr": "wasteratmeat",
-      "category": "Meat",
-      "defname": "Meat_WasteRat",
-      "price": -10
-    },
-    {
-      "abr": "toxalopemeat",
-      "category": "Meat",
-      "defname": "Meat_Toxalope",
-      "price": -10
-    },
-    {
-      "abr": "hemolopemeat",
-      "category": "Meat",
-      "defname": "Meat_RG_Hemolope",
-      "price": -10
-    },
-    {
-      "abr": "rabbitmeat",
-      "category": "Meat",
-      "defname": "Meat_RG_Rabbit",
-      "price": -10
-    },
-    {
-      "abr": "neutrolopemeat",
-      "category": "Meat",
-      "defname": "Meat_RG_Neutrolope",
-      "price": -10
-    },
-    {
-      "abr": "kiwimeat",
-      "category": "Meat",
-      "defname": "Meat_RG_KiwiBird",
-      "price": -10
-    },
-    {
-      "abr": "aberrantmeat",
-      "category": "Meat",
-      "defname": "Meat_GR_AberrantFleshbeast",
-      "price": -10
-    },
-    {
-      "abr": "giraffemeat",
-      "category": "Meat",
-      "defname": "Meat_AEXP_Giraffe",
-      "price": -10
-    },
-    {
-      "abr": "hippopotamusmeat",
-      "category": "Meat",
-      "defname": "Meat_AEXP_Hippopotamus",
-      "price": -10
-    },
-    {
-      "abr": "crocodilemeat",
-      "category": "Meat",
-      "defname": "Meat_AEXP_Crocodile",
-      "price": -10
-    },
-    {
-      "abr": "cheetahmeat",
-      "category": "Meat",
-      "defname": "Meat_AEXP_Cheetah",
-      "price": -10
-    },
-    {
-      "abr": "kangaroomeat",
-      "category": "Meat",
-      "defname": "Meat_AEXP_Kangaroo",
-      "price": -10
-    },
-    {
-      "abr": "koalameat",
-      "category": "Meat",
-      "defname": "Meat_AEXP_Koala",
-      "price": -10
-    },
-    {
-      "abr": "platypusmeat",
-      "category": "Meat",
-      "defname": "Meat_AEXP_Platypus",
-      "price": -10
-    },
-    {
-      "abr": "ottermeat",
-      "category": "Meat",
-      "defname": "Meat_AEXP_Otter",
-      "price": -10
-    },
-    {
-      "abr": "hyenameat",
-      "category": "Meat",
-      "defname": "Meat_AEXP_Hyena",
-      "price": -10
-    },
-    {
-      "abr": "lionmeat",
-      "category": "Meat",
-      "defname": "Meat_AEXP_Lion",
-      "price": -10
-    },
-    {
-      "abr": "dogmeat",
-      "category": "Meat",
-      "defname": "Meat_AEXP_Beagle",
-      "price": -10
-    },
-    {
-      "abr": "pinnipedmeat",
-      "category": "Meat",
-      "defname": "Meat_AEXP_Seal",
-      "price": -10
-    },
-    {
-      "abr": "redpandameat",
-      "category": "Meat",
-      "defname": "Meat_AEXP_RedPanda",
-      "price": -10
-    },
-    {
-      "abr": "badgermeat",
-      "category": "Meat",
-      "defname": "Meat_AEXP_Badger",
-      "price": -10
-    },
-    {
-      "abr": "hedgehogmeat",
-      "category": "Meat",
-      "defname": "Meat_AEXP_Hedgehog",
-      "price": -10
-    },
-    {
-      "abr": "primatemeat",
-      "category": "Meat",
-      "defname": "Meat_AEXP_Gorilla",
-      "price": -10
-    },
-    {
-      "abr": "jaguarmeat",
-      "category": "Meat",
-      "defname": "Meat_AEXP_Jaguar",
-      "price": -10
-    },
-    {
-      "abr": "tigermeat",
-      "category": "Meat",
-      "defname": "Meat_AEXP_Tiger",
-      "price": -10
-    },
-    {
-      "abr": "alligatormeat",
-      "category": "Meat",
-      "defname": "Meat_AEXP_Alligator",
-      "price": -10
-    },
-    {
-      "abr": "muskoxmeat",
-      "category": "Meat",
-      "defname": "Meat_AEXP_Muskox",
-      "price": -10
-    },
-    {
-      "abr": "moosemeat",
-      "category": "Meat",
-      "defname": "Meat_AEXP_Moose",
-      "price": -10
-    },
-    {
-      "abr": "megawolverinemeat",
-      "category": "Meat",
-      "defname": "Meat_AEXP_MegaWolverine",
-      "price": -10
-    },
-    {
-      "abr": "porcupinemeat",
-      "category": "Meat",
-      "defname": "Meat_AEXP_Porcupine",
-      "price": -10
-    },
-    {
-      "abr": "black-footedferretmeat",
-      "category": "Meat",
-      "defname": "Meat_AEXP_BlackFootedFerret",
-      "price": -10
-    },
-    {
-      "abr": "bonobomeat",
-      "category": "Meat",
-      "defname": "Meat_AEXP_Bonobo",
-      "price": -10
-    },
-    {
-      "abr": "tasmaniandevilmeat",
-      "category": "Meat",
-      "defname": "Meat_AEXP_TasmanianDevil",
-      "price": -10
-    },
-    {
-      "abr": "thylacinemeat",
-      "category": "Meat",
-      "defname": "Meat_AEXP_Thylacine",
-      "price": -10
-    },
-    {
-      "abr": "giantpangolinmeat",
-      "category": "Meat",
-      "defname": "Meat_AEXP_Pangolin",
-      "price": -10
-    },
-    {
-      "abr": "muffalopemeat",
-      "category": "Meat",
-      "defname": "Meat_RBSFE_Muffalope",
-      "price": -10
-    },
-    {
-      "abr": "horsemeat",
-      "category": "Meat",
-      "defname": "Meat_BotchJob_DivineOrderHorse",
       "price": -10
     },
     {
@@ -16879,336 +16363,6 @@
       "price": -10
     },
     {
-      "abr": "guestbed",
-      "category": "Furniture",
-      "defname": "BedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestdoublebed",
-      "category": "Furniture",
-      "defname": "DoubleBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestroyalbed",
-      "category": "Furniture",
-      "defname": "RoyalBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guesthospitalbed",
-      "category": "Furniture",
-      "defname": "HospitalBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestbedroll",
-      "category": "Furniture",
-      "defname": "BedrollGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestdoublebedroll",
-      "category": "Furniture",
-      "defname": "BedrollDoubleGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestslabbed",
-      "category": "Furniture",
-      "defname": "SlabBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestslabdoublebed",
-      "category": "Furniture",
-      "defname": "SlabDoubleBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestdeathrestcasket",
-      "category": "Misc",
-      "defname": "DeathrestCasketGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestcrib",
-      "category": "Furniture",
-      "defname": "CribGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestslabbed",
-      "category": "Furniture",
-      "defname": "Bed_StoneSlabGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestsimplebed",
-      "category": "Furniture",
-      "defname": "Bed_SimpleGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestergonomicbed",
-      "category": "Furniture",
-      "defname": "Bed_ErgonomicGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestergonomicdoublebed",
-      "category": "Furniture",
-      "defname": "Bed_DoubleErgonomicGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestroyalposterbed",
-      "category": "Furniture",
-      "defname": "Bed_KingsizeGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestbed",
-      "category": "Furniture",
-      "defname": "RGK_bedSingleGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestbed",
-      "category": "Furniture",
-      "defname": "RGK_bedSingleBGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestdoublebed",
-      "category": "Furniture",
-      "defname": "RGK_bedDoubleGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestdoublebed2",
-      "category": "Furniture",
-      "defname": "RGK_bedDoubleBGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestclassydoublebed",
-      "category": "Furniture",
-      "defname": "GL_ClassyDoubleBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestadvancedbed",
-      "category": "Furniture",
-      "defname": "Bed_AdvBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestadvanceddoublebed",
-      "category": "Furniture",
-      "defname": "Bed_AdvDoubleBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guesthemnesdoublebed",
-      "category": "Furniture",
-      "defname": "LTS_HemnesDoubleGuest",
-      "price": -10
-    },
-    {
-      "abr": "guesthemnesbed",
-      "category": "Furniture",
-      "defname": "LTS_HemnesSingleGuest",
-      "price": -10
-    },
-    {
-      "abr": "guesthangingbed",
-      "category": "Furniture",
-      "defname": "LTS_HangingBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestancientbed",
-      "category": "Misc",
-      "defname": "VME_AncientBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestpfk_cradle",
-      "category": "Furniture",
-      "defname": "PFK_CradleGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestpfkbedroll",
-      "category": "Furniture",
-      "defname": "PFK_BedrollGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestpfkbed",
-      "category": "Furniture",
-      "defname": "PFK_BedAaGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestpfkbed(whitebedding)",
-      "category": "Furniture",
-      "defname": "PFK_BedAbGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestsimplesinglebed",
-      "category": "Furniture",
-      "defname": "ADH_bed_Single_A_A_FURNITUREGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestdeluxesinglebed",
-      "category": "Furniture",
-      "defname": "ADH_bed_Single_B_A_FURNITUREGuest",
-      "price": 400
-    },
-    {
-      "abr": "guestminimalistdoublebed",
-      "category": "Furniture",
-      "defname": "ADH_bed_double_A_A_FURNITUREGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestdeluxedoublebed",
-      "category": "Furniture",
-      "defname": "ADH_bed_double_B_A_FURNITUREGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestquiltedbed",
-      "category": "Furniture",
-      "defname": "CCol_QuiltedBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestquilteddoublebed",
-      "category": "Furniture",
-      "defname": "CCol_QuiltedDoubleBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestoperatingtable",
-      "category": "Furniture",
-      "defname": "Bed_OperatingTableGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestcryptosleepsuspender",
-      "category": "Furniture",
-      "defname": "Bed_CryptoBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestpilfurbed",
-      "category": "Furniture",
-      "defname": "PILFURBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestsnoreggsinglebed",
-      "category": "Furniture",
-      "defname": "SNOREGGSingleGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestsnoreggdoublebed",
-      "category": "Furniture",
-      "defname": "SNOREGGDoubleGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestkrudneppsinglebed",
-      "category": "Furniture",
-      "defname": "KRUDNEPPSingleGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestslabneppdoublebed",
-      "category": "Furniture",
-      "defname": "SLABNEPPDoubleGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestdoublebunkbed",
-      "category": "Furniture",
-      "defname": "BB_BunkBedDoubleGuest",
-      "price": -10
-    },
-    {
-      "abr": "guesttriplebunkbed",
-      "category": "Furniture",
-      "defname": "BB_BunkBedTripleGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestmetal-framedsinglebed",
-      "category": "Furniture",
-      "defname": "RRMetalBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestmetal-frameddoublebed",
-      "category": "Furniture",
-      "defname": "RRMetalDoubleBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestilansinglebed",
-      "category": "Furniture",
-      "defname": "RRArtDecoSingleBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestilandoublebed",
-      "category": "Furniture",
-      "defname": "RRArtDecoDoubleBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestsenevansinglebed",
-      "category": "Furniture",
-      "defname": "RRMidModernSingleBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestsenevandoublebed",
-      "category": "Furniture",
-      "defname": "RRMidModernDoubleBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guesttorinodoublebed",
-      "category": "Furniture",
-      "defname": "RRStreamlineDoubleBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestvalenciaroyaldoublebed",
-      "category": "Furniture",
-      "defname": "RRRoyalBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestmeinacrib",
-      "category": "Furniture",
-      "defname": "RRCribGuest",
-      "price": -10
-    },
-    {
-      "abr": "zombrella",
-      "category": "Misc",
-      "defname": "Zombrella",
-      "price": -10
-    },
-    {
       "abr": "2-tierdisplayshelf",
       "category": "Storage",
       "defname": "sbz_TwoTierDisplayShelf",
@@ -17323,6 +16477,66 @@
       "price": 145
     },
     {
+      "abr": "bluepikmin",
+      "category": "Animals",
+      "defname": "Pawn_PikminBlue",
+      "price": 58
+    },
+    {
+      "abr": "bluepikminseed",
+      "category": "Misc",
+      "defname": "Seed_PikminBlue",
+      "price": 117
+    },
+    {
+      "abr": "boxpew",
+      "category": "Furniture",
+      "defname": "TST_BoxPew",
+      "price": 483
+    },
+    {
+      "abr": "cushionedpew",
+      "category": "Furniture",
+      "defname": "TST_CushionedPew",
+      "price": 367
+    },
+    {
+      "abr": "drumbench",
+      "category": "Furniture",
+      "defname": "TST_DrumBench",
+      "price": 517
+    },
+    {
+      "abr": "drumstool",
+      "category": "Furniture",
+      "defname": "TST_DrumStool",
+      "price": 264
+    },
+    {
+      "abr": "glowpikmin",
+      "category": "Animals",
+      "defname": "Pawn_PikminGlow",
+      "price": 58
+    },
+    {
+      "abr": "glowpikminseed",
+      "category": "Misc",
+      "defname": "Seed_PikminGlow",
+      "price": 117
+    },
+    {
+      "abr": "icepikmin",
+      "category": "Animals",
+      "defname": "Pawn_PikminIce",
+      "price": 58
+    },
+    {
+      "abr": "icepikminseed",
+      "category": "Misc",
+      "defname": "Seed_PikminIce",
+      "price": 117
+    },
+    {
       "abr": "lincangdresser",
       "category": "Furniture",
       "defname": "RRLincangDresser",
@@ -17333,6 +16547,12 @@
       "category": "Storage",
       "defname": "sbz_MeatHook",
       "price": 148
+    },
+    {
+      "abr": "meditationstone",
+      "category": "Furniture",
+      "defname": "TST_MeditationStone",
+      "price": 131
     },
     {
       "abr": "nanchangdiningtable(2x2)",
@@ -17371,6 +16591,12 @@
       "price": 475
     },
     {
+      "abr": "onionhome",
+      "category": "Misc",
+      "defname": "OnionHome",
+      "price": 42
+    },
+    {
       "abr": "openshelf",
       "category": "Storage",
       "defname": "sbz_OpenShelf",
@@ -17395,10 +16621,76 @@
       "price": 433
     },
     {
+      "abr": "policeservicecap",
+      "category": "Headgear",
+      "defname": "PU_CapA",
+      "price": 95
+    },
+    {
+      "abr": "policeuniform(classa)",
+      "category": "Misc",
+      "defname": "PU_ClassA",
+      "price": 295
+    },
+    {
+      "abr": "policeuniform(classb)",
+      "category": "Misc",
+      "defname": "PU_ClassB",
+      "price": 295
+    },
+    {
+      "abr": "prie-dieu",
+      "category": "Furniture",
+      "defname": "TST_PrieDieu",
+      "price": 164
+    },
+    {
+      "abr": "purplepikmin",
+      "category": "Animals",
+      "defname": "Pawn_PikminPurple",
+      "price": 58
+    },
+    {
+      "abr": "purplepikminseed",
+      "category": "Misc",
+      "defname": "Seed_PikminPurple",
+      "price": 117
+    },
+    {
       "abr": "qujingscreen",
       "category": "Furniture",
       "defname": "RRQujingScreen",
       "price": 224
+    },
+    {
+      "abr": "rapier",
+      "category": "Melee weapons",
+      "defname": "HBX_Rapier",
+      "price": 272
+    },
+    {
+      "abr": "redpikmin",
+      "category": "Animals",
+      "defname": "Pawn_PikminRed",
+      "price": 58
+    },
+    {
+      "abr": "redpikminseed",
+      "category": "Misc",
+      "defname": "Seed_PikminRed",
+      "price": 117
+    },
+    {
+      "abr": "rockpikmin",
+      "category": "Animals",
+      "defname": "Pawn_PikminRock",
+      "price": 58
+    },
+    {
+      "abr": "rockpikminseed",
+      "category": "Misc",
+      "defname": "Seed_PikminRock",
+      "price": 117
     },
     {
       "abr": "shanghaicouch",
@@ -17411,6 +16703,12 @@
       "category": "Furniture",
       "defname": "RRShanghaiSofa",
       "price": 625
+    },
+    {
+      "abr": "slabpew",
+      "category": "Furniture",
+      "defname": "TST_SlabPew",
+      "price": 298
     },
     {
       "abr": "smallcrate",
@@ -17449,10 +16747,514 @@
       "price": 141
     },
     {
+      "abr": "ultra-spicyberries",
+      "category": "Vegetarian",
+      "defname": "UltraSpicyBerries",
+      "price": 167
+    },
+    {
+      "abr": "unablackwindow",
+      "category": "Furniture",
+      "defname": "UNABlackWindow",
+      "price": 51
+    },
+    {
+      "abr": "unalacechair",
+      "category": "Furniture",
+      "defname": "UNA_LaceDiningChair",
+      "price": 198
+    },
+    {
+      "abr": "unaroundtable(1x1)",
+      "category": "Furniture",
+      "defname": "UNA_RoundTable1x1c",
+      "price": 176
+    },
+    {
+      "abr": "unaroundtable(2x2)",
+      "category": "Furniture",
+      "defname": "UNA_RoundTable2x2c",
+      "price": 176
+    },
+    {
+      "abr": "unastandinglamp",
+      "category": "Furniture",
+      "defname": "UNAB_StandLight",
+      "price": 65
+    },
+    {
+      "abr": "unatable(3x3)",
+      "category": "Furniture",
+      "defname": "UNATable3x3c",
+      "price": 350
+    },
+    {
+      "abr": "unawindowdeco",
+      "category": "Furniture",
+      "defname": "UNA_WallMadonew",
+      "price": 51
+    },
+    {
+      "abr": "una_canopy",
+      "category": "Furniture",
+      "defname": "UNA_TengaiMuzi",
+      "price": 51
+    },
+    {
+      "abr": "una_canopya",
+      "category": "Furniture",
+      "defname": "UNA_TengaiA",
+      "price": 51
+    },
+    {
+      "abr": "una_chandelier",
+      "category": "Furniture",
+      "defname": "UNA_chandelier",
+      "price": 1000
+    },
+    {
+      "abr": "una_couch",
+      "category": "Furniture",
+      "defname": "UNA_Couch",
+      "price": 783
+    },
+    {
+      "abr": "una_floodlight",
+      "category": "Furniture",
+      "defname": "UNA_FloodLight",
+      "price": 162
+    },
+    {
+      "abr": "una_gazebo",
+      "category": "Furniture",
+      "defname": "UNA_gazebo",
+      "price": 333
+    },
+    {
+      "abr": "una_mantlepiece",
+      "category": "Furniture",
+      "defname": "UNA_mantlepiece",
+      "price": 135
+    },
+    {
+      "abr": "una_roofofroses",
+      "category": "Furniture",
+      "defname": "UNA_RoofofRoses",
+      "price": 51
+    },
+    {
+      "abr": "una_thewashing",
+      "category": "Furniture",
+      "defname": "UNA_thewashing",
+      "price": 51
+    },
+    {
+      "abr": "una_umbrellaroof",
+      "category": "Furniture",
+      "defname": "UNA_Umbrellaroof",
+      "price": 51
+    },
+    {
+      "abr": "una_vail2x4",
+      "category": "Furniture",
+      "defname": "UNA_Vail2x4c",
+      "price": 51
+    },
+    {
+      "abr": "una_windowa",
+      "category": "Furniture",
+      "defname": "UNA_Deco_WindowA",
+      "price": 36
+    },
+    {
+      "abr": "unastainedglassrose",
+      "category": "Furniture",
+      "defname": "UNAstainedglass_Rose",
+      "price": 1000
+    },
+    {
+      "abr": "unastainedglass_a",
+      "category": "Furniture",
+      "defname": "UNAstainedglass_A",
+      "price": 49
+    },
+    {
+      "abr": "unastainedglass_maru",
+      "category": "Furniture",
+      "defname": "UNAstainedglass_Maru",
+      "price": 333
+    },
+    {
+      "abr": "unastainedglass_tate",
+      "category": "Furniture",
+      "defname": "UNAstainedglass_Tate",
+      "price": 36
+    },
+    {
       "abr": "verticalweaponrack",
       "category": "Storage",
       "defname": "sbz_VerticalWeaponRack",
       "price": 148
+    },
+    {
+      "abr": "whitepikmin",
+      "category": "Animals",
+      "defname": "Pawn_PikminWhite",
+      "price": 58
+    },
+    {
+      "abr": "whitepikminseed",
+      "category": "Misc",
+      "defname": "Seed_PikminWhite",
+      "price": 117
+    },
+    {
+      "abr": "wingedpikmin",
+      "category": "Animals",
+      "defname": "Pawn_PikminWings",
+      "price": 58
+    },
+    {
+      "abr": "wingspikminseed",
+      "category": "Misc",
+      "defname": "Seed_PikminWings",
+      "price": 117
+    },
+    {
+      "abr": "yellowpikmin",
+      "category": "Animals",
+      "defname": "Pawn_PikminYellow",
+      "price": 58
+    },
+    {
+      "abr": "yellowpikminseed",
+      "category": "Misc",
+      "defname": "Seed_PikminYellow",
+      "price": 117
+    },
+    {
+      "abr": "guestbed",
+      "category": "Furniture",
+      "defname": "BedGuest",
+      "price": 155
+    },
+    {
+      "abr": "guestdoublebed",
+      "category": "Furniture",
+      "defname": "DoubleBedGuest",
+      "price": 292
+    },
+    {
+      "abr": "guestroyalbed",
+      "category": "Furniture",
+      "defname": "RoyalBedGuest",
+      "price": 1467
+    },
+    {
+      "abr": "guesthospitalbed",
+      "category": "Furniture",
+      "defname": "HospitalBedGuest",
+      "price": 667
+    },
+    {
+      "abr": "guestbedroll",
+      "category": "Furniture",
+      "defname": "BedrollGuest",
+      "price": 137
+    },
+    {
+      "abr": "guestdoublebedroll",
+      "category": "Furniture",
+      "defname": "BedrollDoubleGuest",
+      "price": 290
+    },
+    {
+      "abr": "guestslabbed",
+      "category": "Furniture",
+      "defname": "SlabBedGuest",
+      "price": 102
+    },
+    {
+      "abr": "guestslabdoublebed",
+      "category": "Furniture",
+      "defname": "SlabDoubleBedGuest",
+      "price": 288
+    },
+    {
+      "abr": "guestdeathrestcasket",
+      "category": "Misc",
+      "defname": "DeathrestCasketGuest",
+      "price": 492
+    },
+    {
+      "abr": "guestcrib",
+      "category": "Furniture",
+      "defname": "CribGuest",
+      "price": 86
+    },
+    {
+      "abr": "guestancientbed",
+      "category": "Misc",
+      "defname": "VME_AncientBedGuest",
+      "price": 5
+    },
+    {
+      "abr": "guestslabbed",
+      "category": "Furniture",
+      "defname": "Bed_StoneSlabGuest",
+      "price": 111
+    },
+    {
+      "abr": "guestsimplebed",
+      "category": "Furniture",
+      "defname": "Bed_SimpleGuest",
+      "price": 137
+    },
+    {
+      "abr": "guestergonomicbed",
+      "category": "Furniture",
+      "defname": "Bed_ErgonomicGuest",
+      "price": 450
+    },
+    {
+      "abr": "guestergonomicdoublebed",
+      "category": "Furniture",
+      "defname": "Bed_DoubleErgonomicGuest",
+      "price": 867
+    },
+    {
+      "abr": "guestroyalposterbed",
+      "category": "Furniture",
+      "defname": "Bed_KingsizeGuest",
+      "price": 2008
+    },
+    {
+      "abr": "guestbed",
+      "category": "Furniture",
+      "defname": "RGK_bedSingleGuest",
+      "price": 155
+    },
+    {
+      "abr": "guestbed",
+      "category": "Furniture",
+      "defname": "RGK_bedSingleBGuest",
+      "price": 155
+    },
+    {
+      "abr": "guestdoublebed",
+      "category": "Furniture",
+      "defname": "RGK_bedDoubleGuest",
+      "price": 292
+    },
+    {
+      "abr": "guestdoublebed2",
+      "category": "Furniture",
+      "defname": "RGK_bedDoubleBGuest",
+      "price": 292
+    },
+    {
+      "abr": "guestclassydoublebed",
+      "category": "Furniture",
+      "defname": "GL_ClassyDoubleBedGuest",
+      "price": 942
+    },
+    {
+      "abr": "guestadvancedbed",
+      "category": "Furniture",
+      "defname": "Bed_AdvBedGuest",
+      "price": 833
+    },
+    {
+      "abr": "guestadvanceddoublebed",
+      "category": "Furniture",
+      "defname": "Bed_AdvDoubleBedGuest",
+      "price": 1483
+    },
+    {
+      "abr": "guesthemnesdoublebed",
+      "category": "Furniture",
+      "defname": "LTS_HemnesDoubleGuest",
+      "price": 442
+    },
+    {
+      "abr": "guesthemnesbed",
+      "category": "Furniture",
+      "defname": "LTS_HemnesSingleGuest",
+      "price": 279
+    },
+    {
+      "abr": "guesthangingbed",
+      "category": "Furniture",
+      "defname": "LTS_HangingBedGuest",
+      "price": 128
+    },
+    {
+      "abr": "guestpfk_cradle",
+      "category": "Furniture",
+      "defname": "PFK_CradleGuest",
+      "price": 86
+    },
+    {
+      "abr": "guestpfkbedroll",
+      "category": "Furniture",
+      "defname": "PFK_BedrollGuest",
+      "price": 137
+    },
+    {
+      "abr": "guestpfkbed",
+      "category": "Furniture",
+      "defname": "PFK_BedAaGuest",
+      "price": 155
+    },
+    {
+      "abr": "guestpfkbed(whitebedding)",
+      "category": "Furniture",
+      "defname": "PFK_BedAbGuest",
+      "price": 155
+    },
+    {
+      "abr": "guestsimplesinglebed",
+      "category": "Furniture",
+      "defname": "ADH_bed_Single_A_A_FURNITUREGuest",
+      "price": 139
+    },
+    {
+      "abr": "guestdeluxesinglebed",
+      "category": "Furniture",
+      "defname": "ADH_bed_Single_B_A_FURNITUREGuest",
+      "price": 156
+    },
+    {
+      "abr": "guestminimalistdoublebed",
+      "category": "Furniture",
+      "defname": "ADH_bed_double_A_A_FURNITUREGuest",
+      "price": 273
+    },
+    {
+      "abr": "guestdeluxedoublebed",
+      "category": "Furniture",
+      "defname": "ADH_bed_double_B_A_FURNITUREGuest",
+      "price": 306
+    },
+    {
+      "abr": "guestquiltedbed",
+      "category": "Furniture",
+      "defname": "CCol_QuiltedBedGuest",
+      "price": 255
+    },
+    {
+      "abr": "guestquilteddoublebed",
+      "category": "Furniture",
+      "defname": "CCol_QuiltedDoubleBedGuest",
+      "price": 492
+    },
+    {
+      "abr": "guestoperatingtable",
+      "category": "Furniture",
+      "defname": "Bed_OperatingTableGuest",
+      "price": 508
+    },
+    {
+      "abr": "guestcryptosleepsuspender",
+      "category": "Furniture",
+      "defname": "Bed_CryptoBedGuest",
+      "price": 733
+    },
+    {
+      "abr": "guestpilfurbed",
+      "category": "Furniture",
+      "defname": "PILFURBedGuest",
+      "price": 70
+    },
+    {
+      "abr": "guestsnoreggsinglebed",
+      "category": "Furniture",
+      "defname": "SNOREGGSingleGuest",
+      "price": 276
+    },
+    {
+      "abr": "guestsnoreggdoublebed",
+      "category": "Furniture",
+      "defname": "SNOREGGDoubleGuest",
+      "price": 517
+    },
+    {
+      "abr": "guestkrudneppsinglebed",
+      "category": "Furniture",
+      "defname": "KRUDNEPPSingleGuest",
+      "price": 172
+    },
+    {
+      "abr": "guestslabneppdoublebed",
+      "category": "Furniture",
+      "defname": "SLABNEPPDoubleGuest",
+      "price": 342
+    },
+    {
+      "abr": "guestdoublebunkbed",
+      "category": "Furniture",
+      "defname": "BB_BunkBedDoubleGuest",
+      "price": 292
+    },
+    {
+      "abr": "guesttriplebunkbed",
+      "category": "Furniture",
+      "defname": "BB_BunkBedTripleGuest",
+      "price": 408
+    },
+    {
+      "abr": "guestmetal-framedsinglebed",
+      "category": "Furniture",
+      "defname": "RRMetalBedGuest",
+      "price": 154
+    },
+    {
+      "abr": "guestmetal-frameddoublebed",
+      "category": "Furniture",
+      "defname": "RRMetalDoubleBedGuest",
+      "price": 241
+    },
+    {
+      "abr": "guestilansinglebed",
+      "category": "Furniture",
+      "defname": "RRArtDecoSingleBedGuest",
+      "price": 230
+    },
+    {
+      "abr": "guestilandoublebed",
+      "category": "Furniture",
+      "defname": "RRArtDecoDoubleBedGuest",
+      "price": 458
+    },
+    {
+      "abr": "guestsenevansinglebed",
+      "category": "Furniture",
+      "defname": "RRMidModernSingleBedGuest",
+      "price": 191
+    },
+    {
+      "abr": "guestsenevandoublebed",
+      "category": "Furniture",
+      "defname": "RRMidModernDoubleBedGuest",
+      "price": 383
+    },
+    {
+      "abr": "guesttorinodoublebed",
+      "category": "Furniture",
+      "defname": "RRStreamlineDoubleBedGuest",
+      "price": 383
+    },
+    {
+      "abr": "guestvalenciaroyaldoublebed",
+      "category": "Furniture",
+      "defname": "RRRoyalBedGuest",
+      "price": 1692
+    },
+    {
+      "abr": "guestmeinacrib",
+      "category": "Furniture",
+      "defname": "RRCribGuest",
+      "price": 136
     },
     {
       "abr": "guestkunmingsinglebed",
@@ -17471,7 +17273,37 @@
       "category": "Furniture",
       "defname": "RRChangzhiSingleBedGuest",
       "price": 208
+    },
+    {
+      "abr": "zombrella",
+      "category": "Misc",
+      "defname": "Zombrella",
+      "price": 3333
+    },
+    {
+      "abr": "jinanbookshelf",
+      "category": "Furniture",
+      "defname": "RRJinanCupboard",
+      "price": 224
+    },
+    {
+      "abr": "lixiabookshelf",
+      "category": "Furniture",
+      "defname": "RRLixiaCupboard",
+      "price": 224
+    },
+    {
+      "abr": "xihutvstand",
+      "category": "Furniture",
+      "defname": "RRXihuStand",
+      "price": 675
+    },
+    {
+      "abr": "yunchengdoublebed",
+      "category": "Furniture",
+      "defname": "RRYunchengDoubleBed",
+      "price": 458
     }
   ],
-  "total": 2912
+  "total": 2884
 }
