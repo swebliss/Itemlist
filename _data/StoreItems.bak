@@ -17303,7 +17303,13 @@
       "category": "Furniture",
       "defname": "RRYunchengDoubleBed",
       "price": 458
+    },
+    {
+      "abr": "guestyunchengdoublebed",
+      "category": "Furniture",
+      "defname": "RRYunchengDoubleBedGuest",
+      "price": 458
     }
   ],
-  "total": 2884
+  "total": 2885
 }
