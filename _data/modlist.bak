@@ -24,6 +24,18 @@
     "version": "1.5.86"
   },
   {
+    "author": "average_belgian",
+    "name": "Fishery - Modding Library",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "average_belgian",
+    "name": "Performance Fish",
+    "steamId": "3357374652",
+    "version": "0.6.2.0+79e8b5f70d53ac37ef43c08273e37bb8b34b041c"
+  },
+  {
     "author": "Imranfish",
     "name": "XML Extensions",
     "steamId": "2574315206",
@@ -238,6 +250,12 @@
     "name": "Vanilla Ideology Expanded - Dryads",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Oskar Potocki, Smash Phil and Sarg Bjornson",
+    "name": "Vanilla Achievements Expanded",
+    "steamId": "2288125657",
+    "version": "1.4.9133.21782"
   },
   {
     "author": "Sarg, erdelf, Oskar Potocki, Luizi and Reann Shepard",
@@ -912,6 +930,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Hatti",
+    "name": "QualityBuilder",
+    "steamId": "754637870",
+    "version": "1.0.18"
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "Defensive Positions",
     "steamId": null,
@@ -1176,12 +1200,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki, Smash Phil and Sarg Bjornson",
-    "name": "Vanilla Achievements Expanded",
-    "steamId": "2288125657",
-    "version": "1.4.9133.21782"
-  },
-  {
     "author": "Sarg Bjornson and Oskar Potocki",
     "name": "Vanilla Cooking Expanded - Sushi",
     "steamId": null,
@@ -1244,6 +1262,12 @@
   {
     "author": "Sarg Bjornson",
     "name": "Vanilla Genetics Expanded - More Lab Stuff",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Harkon",
+    "name": "[HRK] Vanilla Expanded Extra Embrasures",
     "steamId": null,
     "version": null
   },
@@ -1314,6 +1338,12 @@
     "version": null
   },
   {
+    "author": "pelador",
+    "name": "Aquarium (Continued)",
+    "steamId": "2194463553",
+    "version": "1.5.5"
+  },
+  {
     "author": "Detvisor and Sovereign",
     "name": "Surrogate Mechanoid",
     "steamId": "",
@@ -1324,12 +1354,6 @@
     "name": "Hospitality: Vending machines",
     "steamId": "3014885065",
     "version": "1.0.0+854d56e65455bfc88da303f09b722cde2d8bf1dd"
-  },
-  {
-    "author": "telardo",
-    "name": "No Laggy Bed",
-    "steamId": "2790250834",
-    "version": "1.0.0"
   },
   {
     "author": "dracoix",
@@ -1704,6 +1728,12 @@
     "version": "1.0.0+4ee7aafb566237826b23c6e55b2c46e43e5343c2"
   },
   {
+    "author": "DimonSever000",
+    "name": "Name Bank",
+    "steamId": "3461429372",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Andromeda",
     "name": "Pawn quick info",
     "steamId": "3078081326",
@@ -1894,5 +1924,11 @@
     "name": "Bionic icons",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Krkr",
+    "name": "RocketMan - Performance Mod",
+    "steamId": "2479389928",
+    "version": "0.6.3.2421"
   }
 ]

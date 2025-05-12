@@ -24,6 +24,18 @@
     "version": "1.5.86"
   },
   {
+    "author": "average_belgian",
+    "name": "Fishery - Modding Library",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "average_belgian",
+    "name": "Performance Fish",
+    "steamId": "3357374652",
+    "version": "0.6.2.0+79e8b5f70d53ac37ef43c08273e37bb8b34b041c"
+  },
+  {
     "author": "Imranfish",
     "name": "XML Extensions",
     "steamId": "2574315206",
@@ -318,6 +330,12 @@
     "version": "0.0.0.0"
   },
   {
+    "author": "cem",
+    "name": "Positive Connections",
+    "steamId": "3003882069",
+    "version": "1.0.0+791c4fb5e6513cd4aa37656ff626bc18297fcd95"
+  },
+  {
     "author": "Oskar Potocki and Taranchuk",
     "name": "Vanilla Social Interactions Expanded",
     "steamId": "2439736083",
@@ -352,6 +370,12 @@
     "name": "Mad Skills",
     "steamId": "731111514",
     "version": "2.7.0.0"
+  },
+  {
+    "author": "Mlie",
+    "name": "All Memories Fade",
+    "steamId": "2800155563",
+    "version": "1.5.1"
   },
   {
     "author": "Meltup",
@@ -516,16 +540,22 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Reel",
-    "name": "Reel's Facial Animation Textures",
+    "author": "Nals",
+    "name": "[NL] Facial Animation - Experimentals",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Oracle of Thessia",
-    "name": "Vanilla Textures Expanded - [NL] Facial Animation",
+    "author": "UNAGI",
+    "name": "UNAGI Facial Animation",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk and Sarg Bjornson",
+    "name": "Vanilla Races Expanded - Highmate",
+    "steamId": "2995385834",
+    "version": "1.0.1.0"
   },
   {
     "author": "Lazy Friday Studio",
@@ -634,6 +664,12 @@
     "name": "Imprisonment On The Go! (Continued)",
     "steamId": "3358620558",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "SheiFoxy",
+    "name": "SF Grim Reality",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Mlie",
@@ -1344,12 +1380,6 @@
     "version": "1.0.0+854d56e65455bfc88da303f09b722cde2d8bf1dd"
   },
   {
-    "author": "telardo",
-    "name": "No Laggy Bed",
-    "steamId": "2790250834",
-    "version": "1.0.0"
-  },
-  {
     "author": "dracoix",
     "name": "Door Mat",
     "steamId": null,
@@ -1426,6 +1456,12 @@
     "name": "GloomyFurniture",
     "steamId": "1558635181",
     "version": "1.0.4"
+  },
+  {
+    "author": "Erin and AveryTheKitty",
+    "name": "Erin's Japanese Furniture",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "ponpeco",
@@ -1538,6 +1574,18 @@
   {
     "author": "Telkir and Rain",
     "name": "[T] MoreFloors 1.5",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JF",
+    "name": "[JF] Geometric Floors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Hyou and Sakura",
+    "name": "Pavimentum",
     "steamId": null,
     "version": null
   },
@@ -1728,6 +1776,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "ferny",
+    "name": "Animals Category",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Andromeda",
     "name": "Pawn quick info",
     "steamId": "3078081326",
@@ -1896,6 +1950,12 @@
     "version": "2.6.72"
   },
   {
+    "author": "Telefonmast",
+    "name": "Graphics Settings+",
+    "steamId": "1678847247",
+    "version": "1.0.0"
+  },
+  {
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
@@ -1918,5 +1978,11 @@
     "name": "Bionic icons",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Krkr",
+    "name": "RocketMan - Performance Mod",
+    "steamId": "2479389928",
+    "version": "0.6.3.2421"
   }
 ]
